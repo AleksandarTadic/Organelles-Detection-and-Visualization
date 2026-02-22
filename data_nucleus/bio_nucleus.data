@@ -1,0 +1,7 @@
+classes = 6
+
+train = data/trainbioNucleus.txt
+valid = data/testbioNucleus.txt
+names = data/bio_nucleus.names
+
+backup = backup/
